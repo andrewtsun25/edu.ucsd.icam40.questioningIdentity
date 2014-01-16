@@ -1,0 +1,89 @@
+h1{
+	font: Arial; 
+	font-size: 25;
+	text-align: center; 
+}
+
+.input {
+    border: 1px solid #006;
+    background: #ffc;
+}
+.button {
+    border: 1px solid #006;
+    background: #9cf;
+}
+
+label {
+    display: block;
+    width: 150px;
+    float: left;
+    margin: 2px 4px 6px 4px;
+    text-align: right;
+}
+br { clear: left; }
+
+#whiteText{
+	color: white;
+	background-color: black; 
+}
+
+a.link{
+	color: blue; 
+}
+
+a.visited{
+	color: red; 
+}
+
+img.centered{
+	float:center;
+}
+
+img.posLeft{
+	position: relative; 
+	left: 20px;
+	top: 20px;
+	height: 300px;
+	width: 300px;
+}
+
+img.posMidLeft{
+	position: relative; 
+	left: -50px;
+	top: 270px;
+	height: 300px;
+	width: 300px;
+}
+
+img.posMid{
+	position: relative; 
+	left: -100px;
+	top: 20px;
+	height: 300px;
+	width: 300px;
+}
+
+img.posMidRight{
+	position: relative; 
+	left: -200px;
+	top: 270px;
+	height: 300px;
+	width: 300px;
+}
+
+img.posRight{
+	position: relative; 
+	left: -300px;
+	top: 20px;
+	height: 300px;
+	width: 300px;
+}
+
+iframe.posMid{
+	position: relative; 
+	left: -100px;
+	top: 20px;
+	height: 300px;
+	width: 300px;
+}
+
